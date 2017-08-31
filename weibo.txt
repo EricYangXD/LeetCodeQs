@@ -1,0 +1,18 @@
+//微博分享接口
+
+//bing分享实例
+http://service.weibo.com/share/share.php?title=%23必应美图%23时间的流逝在俄勒冈州中部的彩绘山丘上留下了它的痕迹，这是约翰时代化石床国家纪念碑的一部分。色彩斑斓的灰土讲述了一个大约3000万年前的一个时代的故事，当时该地区是一个富饶的洪水平原，有马、骆驼、甚至犀牛等动物。它们的化石残骸都可以在这里找到，吸引了古生物学家和大量的游客。&placeholder=必应美图&url=http%3A%2F%2Fcn.bing.com%2F%3Fform%3DHPSWCN&pic=https%3A%2F%2Fhpimges.blob.core.chinacloudapi.cn%2Fcoverstory%2Fwatermark_oregonpainted_zh-cn8553728911_1920x1080.jpg
+//转义之后
+http://service.weibo.com/share/share.php?title=%23%E5%BF%85%E5%BA%94%E7%BE%8E%E5%9B%BE%23%E6%97%B6%E9%97%B4%E7%9A%84%E6%B5%81%E9%80%9D%E5%9C%A8%E4%BF%84%E5%8B%92%E5%86%88%E5%B7%9E%E4%B8%AD%E9%83%A8%E7%9A%84%E5%BD%A9%E7%BB%98%E5%B1%B1%E4%B8%98%E4%B8%8A%E7%95%99%E4%B8%8B%E4%BA%86%E5%AE%83%E7%9A%84%E7%97%95%E8%BF%B9%EF%BC%8C%E8%BF%99%E6%98%AF%E7%BA%A6%E7%BF%B0%E6%97%B6%E4%BB%A3%E5%8C%96%E7%9F%B3%E5%BA%8A%E5%9B%BD%E5%AE%B6%E7%BA%AA%E5%BF%B5%E7%A2%91%E7%9A%84%E4%B8%80%E9%83%A8%E5%88%86%E3%80%82%E8%89%B2%E5%BD%A9%E6%96%91%E6%96%93%E7%9A%84%E7%81%B0%E5%9C%9F%E8%AE%B2%E8%BF%B0%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%A7%E7%BA%A63000%E4%B8%87%E5%B9%B4%E5%89%8D%E7%9A%84%E4%B8%80%E4%B8%AA%E6%97%B6%E4%BB%A3%E7%9A%84%E6%95%85%E4%BA%8B%EF%BC%8C%E5%BD%93%E6%97%B6%E8%AF%A5%E5%9C%B0%E5%8C%BA%E6%98%AF%E4%B8%80%E4%B8%AA%E5%AF%8C%E9%A5%B6%E7%9A%84%E6%B4%AA%E6%B0%B4%E5%B9%B3%E5%8E%9F%EF%BC%8C%E6%9C%89%E9%A9%AC%E3%80%81%E9%AA%86%E9%A9%BC%E3%80%81%E7%94%9A%E8%87%B3%E7%8A%80%E7%89%9B%E7%AD%89%E5%8A%A8%E7%89%A9%E3%80%82%E5%AE%83%E4%BB%AC%E7%9A%84%E5%8C%96%E7%9F%B3%E6%AE%8B%E9%AA%B8%E9%83%BD%E5%8F%AF%E4%BB%A5%E5%9C%A8%E8%BF%99%E9%87%8C%E6%89%BE%E5%88%B0%EF%BC%8C%E5%90%B8%E5%BC%95%E4%BA%86%E5%8F%A4%E7%94%9F%E7%89%A9%E5%AD%A6%E5%AE%B6%E5%92%8C%E5%A4%A7%E9%87%8F%E7%9A%84%E6%B8%B8%E5%AE%A2%E3%80%82&placeholder=%E5%BF%85%E5%BA%94%E7%BE%8E%E5%9B%BE&url=http%3A%2F%2Fcn.bing.com%2F%3Fform%3DHPSWCN&pic=https%3A%2F%2Fhpimges.blob.core.chinacloudapi.cn%2Fcoverstory%2Fwatermark_oregonpainted_zh-cn8553728911_1920x1080.jpg
+
+//ok test
+//微博分享接口
+//title：分享的标签  %23--># 文字<=140
+//placeholder: 微博话题
+//url:文字后面的链接
+//pic: 图片
+http://service.weibo.com/share/share.php?
+title=%23必应美图%23时间的流逝在俄勒冈州中部的彩绘山丘上留下了它的痕迹，这是约翰时代化石床国家纪念碑的一部分。色彩斑斓的灰土讲述了一个大约3000万年前某个时代的故事，当时该地区是一个富饶的洪水平原，有马、骆驼、甚至犀牛等动物。它们的化石残骸都可以在这里找到，吸引了古生物
+&placeholder=必应美图
+&url=http%3A%2F%2Fwww.ericyangxd.com
+&pic=https%3A%2F%2Fhpimges.blob.core.chinacloudapi.cn%2Fcoverstory%2Fwatermark_oregonpainted_zh-cn8553728911_1920x1080.jpg
